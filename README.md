@@ -25,10 +25,12 @@ Sinta-se à vontade para entrar em contato se tiver alguma pergunta, quiser cola
     Email: daniela.thais64@gmail.com ✉️
     LinkedIn: https://www.linkedin.com/in/daniela-thais-3529b2189/🌐
 
+<!--
 <div>
     <a href="https://github.com/DanielaThais">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaThais&layout=compact&langs_count=16&theme=material-palenight" />           
+     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaThais&layout=compact&langs_count=16&theme=material-palenight" />              
 </div>
+-->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielaThais/DanielaThais/output/github-contribution-grid-snake-dark.svg">
