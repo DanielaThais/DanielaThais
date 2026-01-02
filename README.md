@@ -1,6 +1,6 @@
 ## Bem vindo ao meu GitHub! 👋
 
-Olá! Me chamo Daniela Thais, sou apaixonada por **Programação e Aprendizado**, adoro explorar novas tecnologias, mas **minha grande paixão é Java!** Atualmente **estou cursando Análise e Desenvolvimento de Sistemas** no IESB, além de estudar mais aprofundadamente através da plataforma DIO (Digital Innovation One), Curso em Vídeo e da Udemy. **Meu foco é atuar como Back-End** e desenvolver minhas habilidades, sempre aprendendo novas Linguagens. Além de codificar, gosto muito de passar o tempo com minha família, assistir animes, filmes, séries ou ouvir músicas.📚️
+Olá! Me chamo Daniela Thais, sou apaixonada por **Programação e Aprendizado**, adoro explorar novas tecnologias, que são **minha grande paixão!** Atualmente **estou cursando Análise e Desenvolvimento de Sistemas** no IESB, estagiando na MAIHUB, estudando mais aprofundadamente através da plataforma DIO (Digital Innovation One), Curso em Vídeo e da Udemy. **Meu foco é** desenvolver minhas habilidades, sempre aprendendo novas Linguagens e conceitos. Além de codificar, gosto muito de passar o tempo com minha família, assistir animes, filmes, séries ou ouvir músicas.📚️
 
 #
 ## 🛠️ Tecnologias e Ferramentas
@@ -12,6 +12,7 @@ Olá! Me chamo Daniela Thais, sou apaixonada por **Programação e Aprendizado**
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-007396?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
