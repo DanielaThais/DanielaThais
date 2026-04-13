@@ -14,6 +14,7 @@ Olá! Me chamo Daniela Thais, sou apaixonada por **Programação e Aprendizado**
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-007396?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 #
