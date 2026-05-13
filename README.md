@@ -1,6 +1,6 @@
 ## Bem vindo ao meu GitHub! 👋
 
-Olá! Me chamo Daniela Thais, sou apaixonada por **Programação e Aprendizado**, adoro explorar novas tecnologias, que são **minha grande paixão!** Atualmente **estou cursando Análise e Desenvolvimento de Sistemas** no IESB, estagiando na MAIHUB, estudando mais aprofundadamente através da plataforma DIO (Digital Innovation One), Curso em Vídeo e da Udemy. **Meu foco é** desenvolver minhas habilidades, sempre aprendendo novas Linguagens e conceitos. Além de codificar, gosto muito de passar o tempo com minha família, assistir animes, filmes, séries ou ouvir músicas.📚️
+Olá! Me chamo Daniela Thais, sou apaixonada por **Programação e Aprendizado**, adoro explorar novas tecnologias, que são **minha grande paixão!** Atualmente **estou cursando Análise e Desenvolvimento de Sistemas** no IESB, estudando mais aprofundadamente através da plataforma DIO (Digital Innovation One), Curso em Vídeo e da Udemy. **Meu foco é** desenvolver minhas habilidades, sempre aprendendo novas Linguagens e conceitos. Além de codificar, gosto muito de passar o tempo com minha família, assistir animes, filmes, séries ou ouvir músicas.📚️
 
 #
 ## 🛠️ Tecnologias e Ferramentas
